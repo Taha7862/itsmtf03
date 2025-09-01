@@ -1,8 +1,8 @@
 {
-  "owner": {
-    "username": "Taha7862"
-  },
-  "record": {
-    "A": ["145.223.17.96"]
-  }
+    "owner": {
+        "username": "itsmtf03"
+    },
+    "records": {
+        "A": "145.223.17.96"
+    }
 }
